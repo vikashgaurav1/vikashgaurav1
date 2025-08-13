@@ -21,8 +21,6 @@
 - SQL (PostgreSQL – Joins, Window Functions, Data Extraction)  
 - Python (Basic – Data formatting, Automation scripts)  
 
-**Other Tools:**  
-- Git & GitHub  
 
 ---
 
