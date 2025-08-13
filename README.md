@@ -1,7 +1,7 @@
 # Hi, I'm Vikash 👋
 
 💡 **Data Analyst** passionate about transforming raw data into clear, actionable insights.  
-📍 Hyderabad, India | 📧 thevikashgaurav@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/vikash-kumar-gaurav)  
+📍 Hyderabad, India | 📧 thevikashgaurav@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/vikashkrgaurav/)  
 💼 Currently working as a **Data Analyst** at **ICICI Bank** (Aug 2023 – Present)  
 
 ---
